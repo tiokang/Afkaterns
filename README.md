@@ -1,5 +1,5 @@
 # Afkaterns
-Sample exercises for Afkanerd interns ( August)
+Sample exercises for Afkanerd interns ( August 2018)
 
 ## Getting Started
 
@@ -18,8 +18,9 @@ fork the repo https://github.com/Afkanerd/Afkaterns.git
 
 Clone your own fork of the repo 
 
+```
 cd Afkaterns
-
+```
 You will fine two 'Exercises' and 'Solution'. The Exercises folder contain the Exercise you will be
 doing for the day while the Solution folder is for your solution.
 
@@ -33,7 +34,7 @@ To learn more about pull request, check this link [Pull Request](https://help.gi
 
 ### And coding style tests
 
-Follow the coding Standard of the language you are using.
+Please Follow the coding Standard of the language you are using.
 
 
 
